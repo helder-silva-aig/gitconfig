@@ -1,0 +1,22 @@
+[user]
+	name = Hélder Silva
+	email = helder.silva@africainternetgroup.com
+[core]
+    editor = vim
+    fileMode = false
+    bare = false
+    logallrefupdates = true
+[push]
+    default = simple
+[pull]
+    rebase = true
+[color]
+    ui = auto
+[merge]
+    tool = meld
+[color]
+    ui = true
+[alias]
+    st = status
+    ci = commit
+    gl = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
