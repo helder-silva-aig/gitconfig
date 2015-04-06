@@ -1,6 +1,6 @@
 [user]
-	name = Hélder Silva
-	email = helder.silva@africainternetgroup.com
+    name = Hélder Silva
+    email = helder.silva@africainternetgroup.com
 [core]
     editor = vim
     fileMode = false
