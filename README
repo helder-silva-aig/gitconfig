@@ -8,4 +8,10 @@ Copy the gitconfig file to your home folder
   cp gitconfig ~/.gitconfig
 ```
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 And edit the file accordingly to your email.
