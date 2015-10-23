@@ -4,7 +4,7 @@ This is my personal configuration of shortcuts and configurations for git.
 
 Copy the gitconfig file to your home folder
 
-```sh
+```
 cp gitconfig ~/.gitconfig
 ```
 
