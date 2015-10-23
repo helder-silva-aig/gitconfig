@@ -12,7 +12,7 @@ Copy the gitconfig file to your home folder
 
   `$ cp gitconfig ~/.gitconfig`
 
-Edit the file to set your email.
+Edit the file to set your name and email.
 
 =======
 Licence
