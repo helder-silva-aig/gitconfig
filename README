@@ -4,14 +4,7 @@ This is my personal configuration of shortcuts and configurations for git.
 
 Copy the gitconfig file to your home folder
 
-```
-  cp gitconfig ~/.gitconfig
-```
+.. code-block:: bash
+  $ cp gitconfig ~/.gitconfig
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-And edit the file accordingly to your email.
+Edit the file to set   your email.
