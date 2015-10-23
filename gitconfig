@@ -19,8 +19,10 @@
 [alias]
     st = status
     ci = commit
+    co = checkout
+    df = diff
+    ds = diff --staged
+    ustash = stash --include-untracked
     gl = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all
     jira = log -1 --no-merges --author=<your.email@yourdomain.com> --decorate --format=\"format:Commit *%H* on *%d*\"
-    df = diff
-    dfc = diff --cached
-    ustash = stash --include-untracked
+    wbc = branch -r --contains
