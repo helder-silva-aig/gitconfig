@@ -14,8 +14,6 @@
     ui = auto
 [merge]
     tool = meld
-[color]
-    ui = true
 [alias]
     st = status
     ci = commit
